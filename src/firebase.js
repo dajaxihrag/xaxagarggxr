@@ -15,13 +15,13 @@ import { getFirestore } from "firebase/firestore";
 // };
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAcnYGKOtncpmxwYQaEGclbNpyuHYulX3o",
-  authDomain: "qpermoso.firebaseapp.com",
-  projectId: "qpermoso",
-  storageBucket: "qpermoso.appspot.com",
-  messagingSenderId: "588875910929",
-  appId: "1:588875910929:web:3f6f333c91f61c1acac6b0",
-  measurementId: "G-4V7VMPZL9Y"
+  apiKey: "AIzaSyAD_eQKmnFMZGd5unXNmsrk0QN7AHTXy1k",
+  authDomain: "rrencagilete.firebaseapp.com",
+  projectId: "rrencagilete",
+  storageBucket: "rrencagilete.appspot.com",
+  messagingSenderId: "141868909325",
+  appId: "1:141868909325:web:d5a85ff4ec8fe46eca6644",
+  measurementId: "G-BF81XRNHQS"
 };
 
 // Initialize Firebase
